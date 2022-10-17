@@ -1,0 +1,60 @@
+.settingsContainer {
+  width: 450px;
+  height: 300px;
+  padding-top: 20px;
+  border-radius: 10px;
+  background: rgba(122, 122, 122, 0.288);
+  backdrop-filter: blur(5px);
+  align-items: left;
+  margin: auto;
+  margin-top: 150px;
+  padding: 15px;
+}
+
+.settingsCancel {
+  position: absolute;
+  top: 3px;
+  right: 3px;
+  cursor: pointer;
+}
+#settingsBtn {
+  border: none;
+  background-color: rgb(214, 71, 71);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 7px;
+  margin: 5px;
+  transform: translateY(-100px)
+}
+HiX{
+  color: white;
+  font-size: larger;
+}
+.success {
+  font-size: 12px;
+  color: rgb(60, 156, 84);
+  text-align: center;
+}
+
+.failure {
+  font-size: 12px;
+  color: red;
+  text-align: center;
+}
+h1{
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  padding: 5px;
+}
+#profiletext{
+  width: 425px;
+  height: 100px;
+  border-radius: 5px;
+  border-width: 5px;
+  border: black;
+  max-width: 425px;
+  min-width: 425px;
+  min-height: 100px;
+  margin-bottom: 10px;
+}
