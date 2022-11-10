@@ -181,7 +181,7 @@ const uploadFile = (file) => {
     <div style={{ height: "100vh", width: "100%" }}>
       <ReactMapGL
         {...map}
-        mapboxApiAccessToken="pk.eyJ1IjoidGhlMG8iLCJhIjoiY2w1Nmh2cmljMDY1bTNlcW4wMmJlZ216diJ9.axgTVPPDEiMUi0HraH8Kng"
+        mapboxApiAccessToken=""
         width="100%"
         height="100%"
         transitionDuration="20"
